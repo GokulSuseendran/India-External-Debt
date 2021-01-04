@@ -2,7 +2,8 @@
 OBJECTIVE: 
   1) To study the trends followed by the different components of India's external debt.
   2) To predict India's debt for next 6 years (2020-2025).
- DATA DESCRIPTION:
+
+DATA DESCRIPTION:
     The data is a time series data that contains India's external debt from 1991 to 2019. The debt amount is split among the different components of external debt.
 There are 64 variables. The dataset has various categories of India External Debt, namely:
 1) Multilateral.
