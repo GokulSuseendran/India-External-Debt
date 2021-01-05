@@ -17,4 +17,4 @@ There are 64 variables. The dataset has various categories of India External Deb
 9) Short Term Debt.
 10) Others.
 
-Normal graphs and Moving Average plots are obtained to study the trend of each variables and later ARIMA model is used to predict the India's External Debt for next 6 years (2020-2025).
+Time series plots and Moving Average plots are obtained to study the trend of each variables and later ARIMA model is used to predict the India's External Debt for next 6 years (2020-2025).
